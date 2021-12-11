@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Rahul Shishodia
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AWS, React and React Native
 - 👯 I’m looking to collaborate on any Java project
 
 <!--
